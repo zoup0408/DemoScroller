@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zoup.android.demo.demo_scroller.AutoScrollLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="300dp">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="This is first child view" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="This is second child view" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="This is third child view" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="This is fourth child view" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="This is fifth child view" />
+
+</com.zoup.android.demo.demo_scroller.AutoScrollLayout>
